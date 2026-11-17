@@ -144,7 +144,7 @@ This matches what we observed: students most often forget to record their return
 
 ## Screen Recording
 
-A 3-minute screen recording demonstrating the app is available here: [screen-recording.mp4](screen-recording.mp4)
+A 4-minute screen recording demonstrating the app is available here: [screen-recording.mp4](https://drive.google.com/file/d/12o935Uau6ukH0IM_VHguFPRBfB38aDjx/view?usp=sharing)
 
 The recording shows:
 1. Starting the app and loading the default register data
