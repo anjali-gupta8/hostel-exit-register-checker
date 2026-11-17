@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.streamlit/
+*.egg-info/
+dist/
+build/
+.env
+
+# Original unredacted photos — DO NOT commit
+TimePhoto_*.jpeg
+TimePhoto_*.jpg.jpeg
+
+# ZIP archive (rebuild from source)
+hostel-exit-register-checker.zip
